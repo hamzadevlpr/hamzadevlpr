@@ -1,4 +1,4 @@
-# Hello, I'm [Muhammad Hamza Malik] 👋
+# Hello, I'm [Muhammad Hamza Malik](https://github.com/hamzadevlpr) 👋
 
 I'm a final-year BSCS student and a passionate MERN Stack developer with a love for creating web applications and projects. Here, you'll find an overview of my academic journey, my portfolio of projects, and a bit about me.
 
