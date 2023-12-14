@@ -25,9 +25,9 @@ Feel free to explore these projects on my GitHub profile.
 
 ## Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/hamzadvlpr/)
-- Email: [Your Email Address](dev.hamzamalik@gmail.com)
-- Portfolio: [Your Portfolio Website](https://my-prettyfolio.vercel.app/)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/hamzadvlpr/)
+- Email: [My Email Address](dev.hamzamalik@gmail.com)
+- Portfolio: [My Portfolio Website](https://my-prettyfolio.vercel.app/)
 
 ## Let's Connect
 
