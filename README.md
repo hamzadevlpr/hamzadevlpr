@@ -23,6 +23,10 @@ Feel free to explore these projects on my GitHub profile.
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamzadevlpr&show_icons=true&theme=dark)
 
+## Github Streaks
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=hamzadevlpr&theme=dark)](https://git.io/streak-stats)
+
 ## Connect with Me
 
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/hamzadvlpr/)
