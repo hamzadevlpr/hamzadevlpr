@@ -13,10 +13,11 @@ A passionate MERN Stack developer with a love for creating web applications and 
 
 Here are some of the projects I've worked on:
 
-- **[Full Stack Movie Website](https://full-stack-movies.vercel.app/)
-- **[MERN Stack Ecommerce Site](https://mern-commerce.vercel.app/)
-- **[Chat Web App](https://chat-app-mern-stack-ten.vercel.app/)
-- 
+- **[Full Stack Movie Website](https://full-stack-movies.vercel.app/)**
+- **[MERN Stack Ecommerce Site](https://mern-commerce.vercel.app/)**
+- **[Chat Web App](https://chat-app-mern-stack-ten.vercel.app/)**
+- **[Linked in Bot using selenium-webdriver](https://github.com/hamzadevlpr/linkedin_bot) (Private)**
+  
 Feel free to explore these projects on my GitHub profile.
 
 ## GitHub Stats
