@@ -1,6 +1,6 @@
 # Hello, I'm [Muhammad Hamza Malik](https://github.com/hamzadevlpr) 👋
 
-A passionate MERN Stack developer with a love for creating web applications and projects. Here, you'll find an overview of my academic journey, my portfolio of projects, and a bit about me.
+Experienced Full-Stack Developer with over  years of crafting seamless web experiences. Proficient in frontend technologies like React, backend languages including Python & Java, and DBMS like MySQL & PostgreSQL. Known for optimizing web performance, driving a 20% increase in user engagement. Adept at leading teams, fostering innovation, and delivering top-tier solutions on time and within budget. Passionate about continuous learning and pushing boundaries in tech.
 
 ## About Me
 
