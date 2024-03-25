@@ -30,7 +30,7 @@ Feel free to explore these projects on my GitHub profile.
 
 ## Github Streaks
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hamzadevlpr&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hamzadevlpr&mode=weekly)](https://git.io/streak-stats)
 
 ## Connect with Me
 
